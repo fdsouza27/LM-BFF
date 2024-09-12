@@ -1,9 +1,9 @@
-#LM-BFF (**B**etter **F**ew-shot **F**ine-tuning of **L**anguage **M**odels)
+# LM-BFF (**B**etter **F**ew-shot **F**ine-tuning of **L**anguage **M**odels)
 
-### programing language & version
+### Programing language & version
 Python 3.8
 
-### dependencies 
+### Dependencies 
 requirements.txt
 
 ### Short script description
